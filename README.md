@@ -1,10 +1,15 @@
 # Code'Scool - Team-9
 
 Jigar Thummar
-Murtaza Cyclevala
+
+Murtaza Cyclewala
+
 Ronit Anandani
-Preet Suthariya
+
+Preetkumar Sutariya
+
 Priyanka Sorathiya
+
 
 ## Description 
 
